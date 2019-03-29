@@ -3,7 +3,11 @@
 This is a project for visualizing word embeddings based on the work of [Andrei Kashcha (@anvaka)](https://github.com/anvaka/pm).
 
 Visualization links:
-- [FastText Embedding (FR)](https://helboukkouri.github.io/embedding-visualization/#/galaxy/fasttext)
+- [Word2vec Embeddings (EN)](https://helboukkouri.github.io/embedding-visualization/#/galaxy/word2vec_en)
+- [GloVe Embeddings (EN)](https://helboukkouri.github.io/embedding-visualization/#/galaxy/glove_en)
+- [FastText Embeddings (EN)](https://helboukkouri.github.io/embedding-visualization/#/galaxy/fasttext_en)
+- [FastText Embeddings (FR)](https://helboukkouri.github.io/embedding-visualization/#/galaxy/fasttext_fr)
+- [FastText Embeddings (AR)](https://helboukkouri.github.io/embedding-visualization/#/galaxy/fasttext_ar)
 
 Other links:
 - [Data repository](https://github.com/helboukkouri/embedding-visualization-data/tree/gh-pages)
